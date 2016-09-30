@@ -1,24 +1,17 @@
-# README
+# LOCAL PARTS README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Local Parts NG is an online marketplace for vendors who sell locally made parts to connect with customers looking for parts.
 
-Things you may want to cover:
+App Features:
 
-* Ruby version
+* Customer/Vendor Account
 
-* System dependencies
+* Search Engine
 
-* Configuration
+* Messaging
 
-* Database creation
+* Advertising on the app
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Tags
 
 * ...
